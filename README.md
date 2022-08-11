@@ -7,3 +7,6 @@ project, a comparison analysis has been conducted on some popular machine
 learning and deep learning techniques-based anomaly detectors on
 a dataset which consists of a wide range of intrusions replicated in a
 military network environment.
+
+The detailed method with python implementation has been provided in **ML_project.ipynb**.
+Where the project report has been provided in **Project.pdf**
